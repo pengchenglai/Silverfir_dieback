@@ -1,1 +1,2 @@
 # Silverfir_dieback
+This repository documented preliminary results of the study **Recent Growth Trend of Silver Fir (_Abies Alba_ Mill.) in the Context of Climate Change**, which is the collaborative work of Emma Antoine, Sydney Vennin, Clémence Anderhuber, Pengcheng Lai, Luigui Ramírez, Jose Carlos Porto under supervision of [Dr. Pinto Paulina](https://www6.nancy.inrae.fr/foret-bois-lerfob/Le-personnel/Fiches-profils/Scientifiques/PINTO-Paulina). For the latest development, please contact Dr. Pinto Paulina(paulina.pinto@agroparistech.fr)
